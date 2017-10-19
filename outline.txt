@@ -1,0 +1,36 @@
+Project Proposal
+	1.	Project Title
+		a.	HopMaster
+		b.	SudzSensei
+	2.	Team Members
+		a.	Dan Weiger
+		b.	Jason Peck
+		c.	Jason Kulasingam
+		d.	Richa ???
+	3.	Project Description
+		a.	Locate microbreweries in a searchable GEO, and map to google maps
+		b.	Return the following results:
+	1.	Brewery Information
+		a.	Name
+		b.	Location (mapped to Google)
+		c.	Operating Hours
+		d.	Reviews (?)
+	2.	Brews on Tap
+		a.	Description of Brews on Tap
+		b.	Prices
+	3.	Brewery Menu (?)
+	4.	Sketch of Final Product
+		a.	In process
+	5.	API's To Be Used
+		a.	breweryDB.com
+		b.	google maps API
+	6.	Rough Breakdown of Task
+		a.	HTML Frame
+			i.	Layout, colors, images, fonts
+			ii.	CSS
+		b.	app.js
+			i.	Query
+			ii.	Integration w. API's
+			iii.Return results
+	c.	Results 
+			i.	Formatting returned results
