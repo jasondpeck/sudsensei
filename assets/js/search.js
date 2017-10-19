@@ -1,6 +1,6 @@
    // On click function for Search button
  $("#runSearch").on("click", function(){
-  searchVal = $("#searchCity").val().trim();
+  var searchVal = $("#searchCity").val().trim();
 
     //Empties the search results section
 $("#tbodyid").empty();

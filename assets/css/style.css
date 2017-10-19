@@ -85,6 +85,19 @@ tr {
   display: inline-block;
 }
 
+#searchCity {
+  width: 180px;
+  color: teal;
+  font-size: 20px;
+}
+
+#searchBeer {
+  width: 180px;
+  color: teal;
+  font-size: 20px;
+}
+
+}
 #breweryResults {
   font-size: 20px;
 }
